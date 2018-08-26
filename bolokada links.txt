@@ -1,0 +1,16 @@
+http://bolokadaconde.blogspot.com/ - personal website
+http://cwm.illinois.edu/node/103 - university website
+https://en.wikipedia.org/wiki/Bolokada_Conde - wikipedia
+
+Contact info
+
+Drum Building info
+
+slide-show of images
+
+LInks to videos - 
+
+font-family: Roboto, sans-serif;
+
+-font, color,
+-background, color
